@@ -8,5 +8,3 @@
 - [OSINT](https://github.com/vsvpgeorge/ctf/tree/main/OSINT)
 - [Pwn](https://github.com/vsvpgeorge/ctf/tree/main/Pwn)
 - [Rev](https://github.com/vsvpgeorge/ctf/tree/main/Rev)
-
-Mehr folgt!
